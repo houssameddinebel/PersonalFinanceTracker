@@ -9,7 +9,7 @@ A simple Python application to track your income, expenses, and savings. You can
 - Visualize expenses by category using a pie chart
 - Data is stored in a SQLite database
 
-## Installation
+## Installation: 
 1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/PersonalFinanceTracker.git
